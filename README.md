@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there 👋
+
+Welcome to my GitHub repository.
+I'm working on interesting solutions to interesting problems.
+
+In the meantime, why not explore my repositories or have a read of my [CV](https://github.com/g30r93g/g30r93g/blob/main/CV.md)?
 
 <!--
 **g30r93g/g30r93g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
